@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @animesh0701
-- 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on any new ideas
 
