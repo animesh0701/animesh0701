@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @animesh0701
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on any new ideas
+- 🌱 I’m currently learning Next.js
 
 <!---
 animesh0701/animesh0701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
