@@ -7,7 +7,7 @@
  <br>
         <p>
             <strong>
-                Computer Science Student, Full-stack Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
+                Computer Science Graduate, Full-stack Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
             </strong>
         </p>
 
